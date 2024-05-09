@@ -51,8 +51,8 @@ const Footer = () => {
               <li>
                 70 Washington Square South, New York, NY 10012, United States{" "}
               </li>
-              <li>Email: uilib.help@gmail.com</li>
-              <li>Phone: +1 1123 456 780</li>
+              <li>Email: support@ui-aka.com</li>
+              <li>Phone: +88012 3456 7894</li>
             </ul>
           </div>
         </div>
